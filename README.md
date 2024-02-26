@@ -4,7 +4,7 @@ Customize Leaflet maps with a linked Google Sheets template or CSV files and Geo
 ![Preview](preview.jpg)
 
 ## Live links (replace with your own)
-- Leaflet Map https://github.com/verpejs/leaflet-maps-with-google-sheets/
+- Leaflet Map https://verpejs.github.io/leaflet-maps-with-google-sheets/
 - Google Sheets template https://docs.google.com/spreadsheets/d/14PKqb-L91WnVPDjhLy2KrIp1KX_P2rrQlgQKR-LsXWo/edit#gid=0
   
 ## Create your own
